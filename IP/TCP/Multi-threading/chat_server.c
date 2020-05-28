@@ -1,4 +1,4 @@
-//gcc -Wall -g -o -D_REETERANT chat_server chat_server.c -lpthread
+//gcc -Wall -g -o -D_REETRANT chat_server chat_server.c -lpthread
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

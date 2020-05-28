@@ -1,3 +1,4 @@
+//gcc -Wall -g -o -D_REETRANT chat_client chat_client.c -lpthread
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
